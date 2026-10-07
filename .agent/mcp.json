@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "browser": {
+      "command": "npx",
+      "args": ["@playwright/mcp@latest", "--user-data-dir", "/home/agent07/.agent/browser-profile"],
+      "trust": false
+    }
+  }
+}
